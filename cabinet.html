@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html><html lang="kk"><head><title>Кабинет — ProfiNavigator</title><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><link rel="stylesheet" href="css/variables.css"/><link rel="stylesheet" href="css/base.css"/><link rel="stylesheet" href="css/components.css"/><link rel="stylesheet" href="css/pages.css"/></head><body>
+<header class="site-header"><div class="container header-inner"><a class="logo" href="index.html"><img class="logo-icon" src="assets/logo-icon.svg" width="36" height="36" alt="" />Profi<span>Navigator</span></a><button class="nav-toggle" aria-label="Menu">☰</button><nav class="nav-desktop"><a href="index.html">Басты</a><a href="test.html">Тест</a><a href="professions.html">Мамандықтар</a><a href="analytics.html">Аналитика</a><a href="compare.html">Салыстыру</a><a href="cabinet.html">Кабинет</a><span id="userNav"></span></nav></div></header>
+<main class="container"><h1>Жеке кабинет</h1>
+<div class="tabs"><button class="tab-btn active" data-tab="tabProfile">Профиль</button><button class="tab-btn" data-tab="tabFav">Таңдаулылар</button><button class="tab-btn" data-tab="tabTests">Тест нәтижелері</button></div>
+<div id="tabProfile" class="tab-panel active card"><h2 id="profileName"></h2><p id="profileEmail"></p>
+<form id="profileForm" style="margin-top:1rem"><div class="form-group"><label>Аты</label><input id="editName"/></div>
+<div class="form-group"><label>Рөл</label><select id="editRole"><option value="student">Оқушы</option><option value="career_changer">Мансап ауыстырушы</option><option value="mentor">Ментор</option></select></div>
+<button class="btn btn-primary" type="submit">Сақтау</button></form></div>
+<div id="tabFav" class="tab-panel"><div id="favList"></div></div>
+<div id="tabTests" class="tab-panel"><div id="testList"></div></div></main>
+<footer class="site-footer"><div class="container">© 2026 ProfiNavigator</div></footer>
+<script type="module" src="js/pages/cabinet-page.js"></script></body></html>
+

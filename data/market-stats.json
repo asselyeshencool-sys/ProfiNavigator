@@ -1,0 +1,5 @@
+﻿{"categories":[{"id":"it","nameKk":"IT"},{"id":"med","nameKk":"Медицина"},{"id":"eng","nameKk":"Инженерия"},{"id":"biz","nameKk":"Бизнес"},{"id":"edu","nameKk":"Білім"}],"stats":[
+{"categoryId":"it","salaryTrend":[{"year":"2022","value":380000},{"year":"2023","value":420000},{"year":"2024","value":480000},{"year":"2025","value":540000}],"vacancyTrend":[{"year":"2022","value":1200},{"year":"2023","value":1450},{"year":"2024","value":1680},{"year":"2025","value":1900}]},
+{"categoryId":"med","salaryTrend":[{"year":"2022","value":280000},{"year":"2023","value":300000},{"year":"2024","value":320000},{"year":"2025","value":350000}],"vacancyTrend":[{"year":"2022","value":800},{"year":"2023","value":850},{"year":"2024","value":900},{"year":"2025","value":950}]},
+{"categoryId":"biz","salaryTrend":[{"year":"2022","value":250000},{"year":"2023","value":270000},{"year":"2024","value":290000},{"year":"2025","value":310000}],"vacancyTrend":[{"year":"2022","value":600},{"year":"2023","value":620},{"year":"2024","value":650},{"year":"2025","value":680}]}
+]}

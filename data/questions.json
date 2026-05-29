@@ -1,0 +1,34 @@
+﻿{"questions":[
+{"id":"q1","textKk":"Сізге қандай жұмыс көбірек ұнайды?","options":[
+{"id":"a","textKk":"Құралдармен жұмыс, техника","weights":{"realistic":3}},
+{"id":"b","textKk":"Зерттеу, талдау","weights":{"investigative":3}},
+{"id":"c","textKk":"Креативті жобалар","weights":{"artistic":3}}]},
+{"id":"q2","textKk":"Командалық жұмыс сізге қалай?","options":[
+{"id":"a","textKk":"Адамдарға көмектесуді ұнатамын","weights":{"social":3}},
+{"id":"b","textKk":"Жобаны басқару","weights":{"enterprising":3}},
+{"id":"c","textKk":"Құжаттармен жұмыс","weights":{"conventional":3}}]},
+{"id":"q3","textKk":"Бос уақытыңызда не істейсіз?","options":[
+{"id":"a","textKk":"Спорт, қолөнер","weights":{"realistic":2}},
+{"id":"b","textKk":"Кітап оқу, пазл","weights":{"investigative":2}},
+{"id":"c","textKk":"Сурет салу, музыка","weights":{"artistic":2}}]},
+{"id":"q4","textKk":"Мектепте ең қызықты пән?","options":[
+{"id":"a","textKk":"Физика, информатика","weights":{"investigative":2,"realistic":1}},
+{"id":"b","textKk":"Әдебиет, өнер","weights":{"artistic":2}},
+{"id":"c","textKk":"Қоғамтану","weights":{"social":2,"enterprising":1}}]},
+{"id":"q5","textKk":"Қандай орта сізге жайлы?","options":[
+{"id":"a","textKk":"Кеңсе, құрылым","weights":{"conventional":2,"enterprising":1}},
+{"id":"b","textKk":"Ашық кеңістік, дала","weights":{"realistic":2}},
+{"id":"c","textKk":"Команда, кеңес","weights":{"social":2}}]},
+{"id":"q6","textKk":"Сізді не мотивациялайды?","options":[
+{"id":"a","textKk":"Нәтиже және табыс","weights":{"enterprising":3}},
+{"id":"b","textKk":"Жаңалық ашу","weights":{"investigative":3}},
+{"id":"c","textKk":"Адамдарға пайда","weights":{"social":3}}]},
+{"id":"q7","textKk":"Қандай тапсырма ұнайды?","options":[
+{"id":"a","textKk":"Нақты нұсқаулық бар","weights":{"conventional":2}},
+{"id":"b","textKk":"Идея ұсыну","weights":{"artistic":2,"enterprising":1}},
+{"id":"c","textKk":"Жөндеу, жинақтау","weights":{"realistic":2}}]},
+{"id":"q8","textKk":"Стресс жағдайында сіз...","options":[
+{"id":"a","textKk":"Жоспар құрамын","weights":{"conventional":2,"investigative":1}},
+{"id":"b","textKk":"Басқалармен кеңесемін","weights":{"social":2}},
+{"id":"c","textKk":"Әрекетке кіремін","weights":{"enterprising":2,"realistic":1}}]}
+]}

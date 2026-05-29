@@ -1,0 +1,9 @@
+﻿<!DOCTYPE html><html lang="kk"><head><title>Аналитика — ProfiNavigator</title><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><link rel="stylesheet" href="css/variables.css"/><link rel="stylesheet" href="css/base.css"/><link rel="stylesheet" href="css/components.css"/><link rel="stylesheet" href="css/pages.css"/>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script></head><body>
+<header class="site-header"><div class="container header-inner"><a class="logo" href="index.html"><img class="logo-icon" src="assets/logo-icon.svg" width="36" height="36" alt="" />Profi<span>Navigator</span></a><button class="nav-toggle" aria-label="Menu">☰</button><nav class="nav-desktop"><a href="index.html">Басты</a><a href="test.html">Тест</a><a href="professions.html">Мамандықтар</a><a href="analytics.html">Аналитика</a><a href="compare.html">Салыстыру</a><a href="cabinet.html">Кабинет</a><span id="userNav"></span></nav></div></header>
+<main class="container"><h1>Аналитика</h1>
+<div class="form-group" style="max-width:320px"><label for="categorySelect">Сала</label><select id="categorySelect"></select></div>
+<div class="chart-wrap"><h3>Жалақы динамикасы</h3><canvas id="salaryChart"></canvas></div>
+<div class="chart-wrap"><h3>Сұраныс (бос орындар)</h3><canvas id="vacancyChart"></canvas></div></main>
+<footer class="site-footer"><div class="container">© 2026 ProfiNavigator</div></footer>
+<script type="module">import{initLayout}from"./js/main.js";import{initCharts}from"./js/charts.js";initLayout("analytics");initCharts();</script></body></html>

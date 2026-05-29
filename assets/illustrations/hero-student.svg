@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 180" fill="none" aria-hidden="true">
+  <path d="M8 155 Q100 148 192 158" stroke="#166534" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M72 42 Q88 28 108 38 Q118 52 104 62 Q90 68 78 58 Q68 48 72 42Z" stroke="#166534" stroke-width="2.5" fill="#dcfce7"/>
+  <path d="M88 62 L88 108 Q88 118 78 122 L62 128" stroke="#166534" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M88 78 L118 68 L128 95 L98 108 Z" stroke="#15803d" stroke-width="2.5" fill="#bbf7d0"/>
+  <path d="M118 95 L148 88 L155 108 L125 115 Z" stroke="#16a34a" stroke-width="2" fill="#f0fdf4"/>
+  <rect x="138" y="38" width="44" height="32" rx="3" stroke="#166534" stroke-width="2.5" fill="#fff" transform="rotate(6 160 54)"/>
+  <path d="M148 50 L172 50 M148 58 L165 58" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <path d="M38 72 Q48 65 58 78 L52 100 Q44 108 36 98 Z" stroke="#166534" stroke-width="2" fill="#f0fdf4"/>
+  <circle cx="158" cy="128" r="22" stroke="#15803d" stroke-width="2.5" fill="#dcfce7"/>
+  <path d="M148 128 L158 118 L168 128 L158 138 Z" fill="#16a34a" opacity="0.8"/>
+  <path d="M22 98 L42 88 L48 108 L28 118 Z" stroke="#166534" stroke-width="2" fill="#bbf7d0" transform="rotate(-8 35 103)"/>
+</svg>
