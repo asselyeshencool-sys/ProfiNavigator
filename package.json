@@ -1,0 +1,15 @@
+{
+  "name": "profinavigator",
+  "version": "1.0.0",
+  "description": "Кәсіптік бағдар беру платформасы",
+  "private": true,
+  "scripts": {
+    "start": "serve -s . --listen tcp://0.0.0.0:${PORT:-3000}"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
